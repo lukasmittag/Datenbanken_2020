@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c6e2bdb-b522-49a6-bd68-3401e56acfbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iuPpRe42dtqprcSitBgZUmtVVY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Dokumente/DHBW/3.Semester/Datenbanken/Hausaufgaben/HA_2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lukmi\OneDrive\Dokumente\DHBW\3.Semester\Datenbanken\Hausaufgaben\HA_2" />
+      <recent name="C:\Users\lukmi\OneDrive\Dokumente\DHBW\3.Semester\Datenbanken" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602766499084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602766499084" />
+    <state x="770" y="374" key="FileChooserDialogImpl" timestamp="1602766971140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1150" y="374" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@-1920.0.1920.1040" timestamp="1602758638845" />
+    <state x="770" y="374" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602766971140" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1602767437742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@-1920.0.1920.1040" timestamp="1602758583451" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602767437742" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1602767437742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@-1920.0.1920.1040" timestamp="1602758583449" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602767437742" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1602767437742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@-1920.0.1920.1040" timestamp="1602758583448" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602767437742" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1602767437742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@-1920.0.1920.1040" timestamp="1602758583450" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602767437742" />
+    <state x="814" y="397" width="316" height="267" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1602767483811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="397" width="316" height="267" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602767483811" />
+    <state x="437" y="225" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1602758041903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="437" y="225" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1040/-1920.0.1920.1040/1920.-661.1500.960@0.0.1920.1040" timestamp="1602758041903" />
+  </component>
+</project>
